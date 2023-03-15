@@ -9,3 +9,31 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+#red {
+    /*This selects any id whose color is red*/
+border-top-color:  #f00;
+}
+#orange {
+  /*This selects any id whose color is orange*/
+  border-top-color: #ffa500;
+}
+#green {
+  /*This selects any id whose color is green*/
+  border-top-color: #00bc3f;
+}
+#blue {
+  /*This selects any id whose color is blue*/
+  border-top-color: #06f;
+}
+#indigo {
+  /*This selects any id whose color is indigo*/
+  border-top-color:#8a2be2;
+}
+#violet {
+  /*This selects any id whose color is violet*/
+  border-top-color: #d300c9;
+}
+#yellow {
+  /*This selects any id whose color is yellow*/
+  border-top-color: #ff0;
+}

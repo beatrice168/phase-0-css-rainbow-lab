@@ -184,7 +184,7 @@ mark its color as red.
 
 ```css
 #red {
-  /* this selects any elements with the red id */
+  /*This selects any id whose color is red*/
   border-top-color: #f00;
 }
 ```
